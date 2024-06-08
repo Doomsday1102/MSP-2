@@ -19,7 +19,7 @@
 # sa		  South America (São Paulo)
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
-
+#cambios
 
 
 
@@ -56,3 +56,4 @@ if flnm.split(".")[-1] == "pyc":
     os.system(f"python3 {flnm}")
 else:
 	os.system(f"chmod +x {flnm} && ./{flnm}")
+	
